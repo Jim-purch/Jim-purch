@@ -1,9 +1,12 @@
 <div align="center">
 
-<!-- 动态打字机效果标题 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+Jim" alt="Typing SVG" />
+# 👋 Hi, I'm Jim
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=8B5CF6&center=true&vCenter=true&random=false&width=600&height=35&lines=%E2%9C%A8+Full-Stack+Developer+%7C+AI+Enthusiast;%F0%9F%9A%80+Building+Tools+That+Matter;%F0%9F%8E%AF+Passionate+about+User+Experience" alt="Subtitle" />
+### AI协作大师 · 数字化产品创造者
+
+<br/>
+
+> **用代码自动化重复，用工具放大创造力，让技术成为人的延伸而非束缚。**
 
 <br/>
 
@@ -20,17 +23,51 @@
 ```typescript
 const Jim = {
   location: "🌏 China",
-  focus: ["Full-Stack Development", "AI Integration", "Developer Tools"],
-  currentlyLearning: ["Large Language Models", "Cloud Native"],
-  funFact: "我热衷于将 AI 技术融入日常工具，让复杂变得简单 ✨",
+  identity: "AI协作大师 · 数字化产品创造者",
+  aiMasteryLevel: "全满分评级 ⭐️⭐️⭐️⭐️⭐️",
   
-  philosophy: `
-    💡 用代码解决问题，用产品创造价值
-    🎨 追求技术与用户体验的完美结合
-    🌱 终身学习者，永远保持好奇心
-  `
+  corePhilosophy: `
+    💡 AI 不是替代人的威胁，而是增强人的工具
+    🎨 人提供方向与判断，AI 提供执行与可能性
+    🌱 用代码自动化重复，用工具放大创造力
+  `,
+  
+  aiCapabilities: {
+    promptEngineering: "100%",
+    aiProductDesign: "100%",
+    serviceIntegration: "100%",
+    humanAICollaboration: "100%",
+    workflowDesign: "100%"
+  },
+  
+  uniqueStrengths: [
+    "语音 AI 应用专家",
+    "视觉 AI 应用专家", 
+    "AI 产品创造者",
+    "AI 工作流架构师",
+    "提示工程专家"
+  ]
 };
 ```
+
+---
+
+## 🤖 AI Tools & Integration
+
+<div align="center">
+
+### AI 工具矩阵
+
+| 工具 | 应用场景 |
+|:---:|:---|
+| ![Claude](https://img.shields.io/badge/Claude-412991?style=flat-square&logo=anthropic&logoColor=white) | 深度代码协作、复杂需求分析 |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | API 集成、产品功能开发 |
+| ![DeepSeek](https://img.shields.io/badge/DeepSeek-4B8BBE?style=flat-square&logo=data:image/svg+xml;base64,PHN2Zz48L3N2Zz4=&logoColor=white) | 本地部署、深度推理 |
+| ![MiniMax](https://img.shields.io/badge/MiniMax-FF6B6B?style=flat-square&logo=data:image/svg+xml;base64,PHN2Zz48L3N2Zz4=&logoColor=white) | 语音合成、多模态应用 |
+| ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) | 多模态理解、知识整合 |
+| ![Local LLM](https://img.shields.io/badge/Local_LLM-2D2D2D?style=flat-square&logo=llama&logoColor=white) | 隐私保护、离线部署 |
+
+</div>
 
 ---
 
@@ -38,28 +75,18 @@ const Jim = {
 
 <div align="center">
 
-### Languages
+### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### AI & Cloud
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
@@ -98,32 +125,15 @@ const Jim = {
 
 **TeleChat** - Telegram AI 语音机器人，支持 DeepSeek & MiniMax
 
-<a href="https://github.com/Jim-purch/WebListToImage">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jim-purch&repo=WebListToImage&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="WebListToImage"/>
-</a>
-
-**网页截图工具** - 批量截取网页列表元素并导出 CSV
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 多媒体工具
-
 <a href="https://github.com/Jim-purch/book-index-tts">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jim-purch&repo=book-index-tts&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="book-index-tts"/>
 </a>
 
 **智能书籍朗读器** - 多格式支持，智能章节解析与 TTS 朗读
 
-<a href="https://github.com/Jim-purch/imageToVideo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jim-purch&repo=imageToVideo&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="imageToVideo"/>
-</a>
-
-**图片转视频** - 上传图片和配文，生成精美幻灯片视频
-
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔧 开发工具
@@ -134,11 +144,16 @@ const Jim = {
 
 **水印工具** - 批量添加图片水印，支持 Docker 部署
 
-<a href="https://github.com/Jim-purch/pdf-to-svg-png">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jim-purch&repo=pdf-to-svg-png&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="pdf-to-svg-png"/>
+</td>
+<td width="50%">
+
+### 💼 作品集
+
+<a href="https://github.com/Jim-purch/jim-resume">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jim-purch&repo=jim-resume&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="jim-resume"/>
 </a>
 
-**PDF 提取工具** - 交互式提取 PDF 中的 SVG/PNG 资源
+**在线简历** - [jim-resume.vercel.app ✨](https://jim-resume.vercel.app)
 
 </td>
 </tr>
@@ -171,6 +186,28 @@ const Jim = {
 
 ---
 
+## 💡 AI 协作哲学
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   🌟 AI 已成为创作过程中不可分割的协作伙伴                        │
+│                                                                 │
+│   📐 既善于使用 AI 辅助开发，也擅长将 AI 融入产品                  │
+│                                                                 │
+│   🔧 深谙将 AI 能力转化为可用服务的艺术                           │
+│                                                                 │
+│   🤝 追求人与 AI 的协同增益，而非简单替代                         │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -181,28 +218,13 @@ const Jim = {
 
 ---
 
-## 🌟 Project Categories
-
-<div align="center">
-
-| 类别 | 项目 | 描述 |
-|:---:|:---|:---|
-| 🧠 **AI 应用** | [OH-MindMirror](https://github.com/Jim-purch/OH-MindMirror), [OH-ForYou](https://github.com/Jim-purch/OH-ForYou), [know-yourself-tools](https://github.com/Jim-purch/know-yourself-tools) | AI 驱动的自我探索与心理辅助工具 |
-| 🤖 **Bot** | [telechat](https://github.com/Jim-purch/telechat) | Telegram AI 语音机器人 |
-| 🎨 **多媒体** | [book-index-tts](https://github.com/Jim-purch/book-index-tts), [imageToVideo](https://github.com/Jim-purch/imageToVideo) | 书籍朗读 & 视频生成 |
-| 🔧 **工具** | [put-watermark-web](https://github.com/Jim-purch/put-watermark-web), [pdf-to-svg-png](https://github.com/Jim-purch/pdf-to-svg-png), [WebListToImage](https://github.com/Jim-purch/WebListToImage) | 图片处理 & 网页工具 |
-| ☁️ **服务端** | [qiniuyun-upload-auth](https://github.com/Jim-purch/qiniuyun-upload-auth) | 七牛云上传凭证服务 |
-| 💼 **作品集** | [jim-resume](https://github.com/Jim-purch/jim-resume) | [在线简历 ✨](https://jim-resume.vercel.app) |
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect!
 
 *如果你对我的项目感兴趣，欢迎 Star ⭐ 或者提 Issue！*
+
+**与 AI 共舞，让创造力飞翔。**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
