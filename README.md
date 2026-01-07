@@ -22,12 +22,7 @@
 | [**Know Yourself**](https://github.com/Jim-purch/know-yourself-tools) | **自我认知辅助系统**<br>融合专业咨询量表与大模型能力，帮助用户多维度解析个人特质。 |
 | [**Watermark Web**](https://github.com/Jim-purch/put-watermark-web) | **轻量级水印工具**<br>基于 Web 的图片批量水印处理方案，支持 Docker 快速私有化部署。 |
 
-## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jim-purch&show_icons=true&theme=graywhite&hide_border=true" height="130" alt="Jim's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-purch&layout=compact&theme=graywhite&hide_border=true&langs_count=6" height="130" alt="Top Languages" />
-</div>
 
 <br/>
 
