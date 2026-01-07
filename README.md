@@ -167,8 +167,8 @@ const Jim = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jim-purch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jim-purch&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" alt="GitHub Streak"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jim-purch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=Jim-purch&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" alt="GitHub Streak" />
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jim-purch&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
